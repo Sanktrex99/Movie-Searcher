@@ -1,4 +1,4 @@
-API Used: "https://www.omdbapi.com/?s=AVENGERS&apikey=e6bfff91"
+API Used: "https://www.omdbapi.com/?s={$SearchValue}&apikey=e6bfff91"
 
 Some Theory for reference:
 useEffect function accepts two arguments,
@@ -21,3 +21,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // Learn more about service workers: http://bit.ly/CRA-PWA
 
 serviceWorker.unregister();
+
+
+Install NPM and use npm start to make the project work on your system.
+Enjoy !!
