@@ -1,4 +1,4 @@
-API Used: "https://www.omdbapi.com/?s={$SearchValue}&apikey=e6bfff91"
+API Used: "https://www.omdbapi.com/?s={$SearchValue}&apikey={your-key}"
 
 Some Theory for reference:
 useEffect function accepts two arguments,
